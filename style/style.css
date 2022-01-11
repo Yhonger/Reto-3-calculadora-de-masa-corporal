@@ -1,0 +1,14 @@
+#titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkred;
+    text-align: center;
+}
+body{
+    background-color: lightslategray;
+    text-align: center;
+}
+.container{
+    background-color: chartreuse;
+    margin: 50px;
+padding: 20px;
+}

@@ -1,0 +1,177 @@
+{
+  "datos": [
+    {
+      "altura": "altura",
+      "kilos": "kilos",
+      "edad": "edad",
+      "imc": 6,
+      "id": 1
+    },
+    {
+      "altura": "175",
+      "kilos": "68",
+      "edad": "32",
+      "sexo": "mujer",
+      "imc": 22.20408163265306,
+      "id": 2
+    },
+    {
+      "altura": "175",
+      "kilos": "68",
+      "edad": "32",
+      "sexo": "mujer",
+      "imc": 22.20408163265306,
+      "id": 3
+    },
+    {
+      "altura": "190",
+      "kilos": "80",
+      "edad": "38",
+      "sexo": "mujer",
+      "imc": 22.1606648199446,
+      "id": 4
+    },
+    {
+      "altura": "178",
+      "kilos": "95",
+      "edad": "20",
+      "sexo": "mujer",
+      "imc": 29.983587930816814,
+      "id": 5
+    },
+    {
+      "altura": "166",
+      "kilos": "70",
+      "edad": "47",
+      "sexo": "mujer",
+      "imc": 25.4,
+      "id": 6
+    },
+    {
+      "altura": "172",
+      "kilos": "82",
+      "edad": "18",
+      "sexo": "mujer",
+      "imc": 27.72,
+      "id": 7
+    },
+    {
+      "altura": "170",
+      "kilos": "69",
+      "edad": "50",
+      "sexo": "mujer",
+      "imc": 23.88,
+      "id": 8
+    },
+    {
+      "altura": "175",
+      "kilos": "65",
+      "edad": "35",
+      "sexo": "mujer",
+      "imc": 21.22,
+      "id": 9
+    },
+    {
+      "altura": "165",
+      "kilos": "58",
+      "edad": "26",
+      "sexo": "mujer",
+      "imc": 21.3,
+      "id": 10
+    },
+    {
+      "altura": "153",
+      "kilos": "57",
+      "edad": "14",
+      "sexo": "mujer",
+      "imc": 24.35,
+      "id": 11
+    },
+    {
+      "altura": "163",
+      "kilos": "95",
+      "edad": "58",
+      "sexo": "mujer",
+      "imc": 35.76,
+      "id": 12
+    },
+    {
+      "altura": "162",
+      "kilos": "84",
+      "edad": "30",
+      "sexo": "mujer",
+      "imc": 32.01,
+      "id": 13
+    },
+    {
+      "altura": "169",
+      "kilos": "75",
+      "edad": "21",
+      "sexo": "mujer",
+      "imc": 26.26,
+      "id": 14
+    },
+    {
+      "altura": "160",
+      "kilos": "75",
+      "edad": "42",
+      "sexo": "hombre",
+      "imc": 29.3,
+      "id": 15
+    },
+    {
+      "altura": "167",
+      "kilos": "77",
+      "edad": "27",
+      "sexo": "hombre",
+      "imc": 27.61,
+      "id": 16
+    },
+    {
+      "altura": "157",
+      "kilos": "77",
+      "edad": "37",
+      "sexo": "hombre",
+      "imc": 31.24,
+      "id": 17
+    },
+    {
+      "altura": "167",
+      "kilos": "77",
+      "edad": "27",
+      "imc": 27.61,
+      "id": 18
+    },
+    {
+      "altura": "163",
+      "kilos": "72",
+      "edad": "38",
+      "imc": 27.1,
+      "id": 19
+    },
+    {
+      "altura": "180",
+      "kilos": "80",
+      "edad": "79",
+      "sexo": "hombre",
+      "imc": 24.69,
+      "id": 20
+    },
+    {
+      "altura": "170",
+      "kilos": "68",
+      "edad": "37",
+      "sexo": "mujer",
+      "imc": 23.53,
+      "id": 21
+    },
+    {
+      "altura": "150",
+      "kilos": "78",
+      "edad": "80",
+      "sexo": "mujer",
+      "imc": 34.67,
+      "id": 22
+    }
+  ]
+}

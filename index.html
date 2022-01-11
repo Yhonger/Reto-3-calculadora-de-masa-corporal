@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/style.css">
+
+
+    <title>CALCULADORA DE MASA corporal</title>
+</head>
+
+<body>
+    <div class="container">
+        <center>
+
+            <h1 id="titulo">IMC Calculadora de masa corporal</h1>
+
+            <form id="calcula">
+                <div id="campos">
+                    <input type="text" value="" id="kilos" placeholder="Ingresa tu peso"><br><br>
+                    <input type="text" value="" id="altura" placeholder="Ingresa tu altura en Cm"><br><br>
+                    <input type="text" value="" id="edad" placeholder="Ingresa tu edad"><br><br>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1"
+                            value="hombre" checked>
+                        <label for="mas">Masculino</label>
+                        <i class="bi bi-gender-male"></i>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2"
+                            value="mujer">
+                        <label for="mas">Femenino</label>
+                        <i class="bi bi-gender-female"></i>
+                    </div>
+
+
+                </div>
+
+                <br>
+                <button>Calcular</button>
+            </form>
+            </P>
+            <p>IMC: <span class="IMC" id="lectura"></span></p>
+
+            <div id="tabla">
+                <table width="40%" heigh="300px" class="tabla1" border="me">
+                    <thead>
+                        <tr id="inicio" align="center">
+                            <th>Indice de masa corporal</th>
+                            <th>Rango</th>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr id="delgadezSevero">
+                            <td>18.5 o menos</td>
+                            <td>Delgadez severa</td>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr id="saludable">
+                            <td>18.5 a 24.9</td>
+                            <td>Saludable</td>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr id="sobrepeso">
+                            <td>25.0 a 29.9</td>
+                            <td>Con sobrepeso</td>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr id="obeso">
+                            <td>30.0 a 39.9</td>
+                            <td>Obeso</td>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr id="muyObeso">
+                            <td>40.0 a 89.9</td>
+                            <td>Obesidad extrema</td>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+
+
+        </center>
+        <script src="./script/script.js"></script>
+
+    </div>
+</body>
+
+</html>
